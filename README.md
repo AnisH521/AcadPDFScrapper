@@ -1,4 +1,4 @@
-# PDFDownloader
+# AcadPDFScrapper
 
 A project to download PDFs from a website using Selenium in Python.
 
